@@ -1,0 +1,27 @@
+{
+  "name": "ee-util",
+  "version": "2.0.1",
+  "description": "通用js工具集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "liming"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:effevo/ee-util.git"
+  },
+  "license": "ISC",
+  "gitHead": "2747660738fddac2f0d55c98f9b1d8daa2ad6d74",
+  "readme": "# ee-util\r\n通用js方法集合\r\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/effevo/ee-util/issues"
+  },
+  "homepage": "https://github.com/effevo/ee-util",
+  "_id": "ee-util@1.0.3",
+  "_shasum": "1ec463e28932d0fffaae2e971191783dd1f2a7d7",
+  "_from": "ee-util@>=1.0.1 <2.0.0"
+}

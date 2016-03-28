@@ -1,0 +1,1 @@
+git add . & git commit -m "push to github" & git push github master & pause
